@@ -9,7 +9,10 @@ export class CadastroComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {}
 
-}
+
+    }
+  
+
+
